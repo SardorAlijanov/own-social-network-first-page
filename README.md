@@ -1,1 +1,1 @@
-# own-social-network-first-page
+Social network learned during intensive study at GLOacademy
